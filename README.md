@@ -2,7 +2,12 @@
 
 ### Tech Stack
 
+Language -
 Typescript
-Node.js
+
+Pkge Managers -
+Node
 Yarn
+
+
 Mikro-Orm
