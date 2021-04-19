@@ -1,4 +1,4 @@
-## A discussion web forum
+## Setup for GraphQL in TS using Mikro-Orm, Apollo
 
 ### Tech Stack
 
